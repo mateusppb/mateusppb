@@ -27,12 +27,12 @@ Sou curioso, dedicado e estou sempre em busca de novos desafios para evoluir.
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Projetos 
 
-🔹 [Exercícios Java - PUC](https://github.com/mateusppb/Exercicios-Java-PUC)  
+[Exercícios Java - PUC](https://github.com/mateusppb/puc_computacao.git)  
 Exercícios focados na lógica de programação utilizando Java.
 
-🔹 [Projetos Infinity](https://github.com/mateusppb?tab=repositories)  
+🔹 [Projetos Infinity](https://github.com/mateusppb/Infinity.git)  
 Projetos realizados durante minha formação em desenvolvimento de software na Infinity School.
 
 ---
