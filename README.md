@@ -42,8 +42,21 @@ Projetos realizados durante minha formação em desenvolvimento de software na I
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuspimentapb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_pimentapb/))
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <a href="mailto:mateuspimentapb@gmail.com">
+    <img src="https://img.icons8.com/ios/452/gmail-new.png" width="40" />
+  </a>
+  <p>Email</p>
+  
+  <a href="https://www.linkedin.com/in/seu-usuario/">
+    <img src="https://img.icons8.com/ios/452/linkedin.png" width="40" />
+  </a>
+  <p>LinkedIn</p>
+  
+  <a href="https://www.instagram.com/mateus_pimentapb/">
+    <img src="https://img.icons8.com/ios/452/instagram-new.png" width="40" />
+  </a>
+  <p>Instagram</p>
+</div>
 
 ---
