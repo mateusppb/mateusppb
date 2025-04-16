@@ -25,7 +25,10 @@ Sou curioso, dedicado e estou sempre em busca de novos desafios para evoluir.
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusppb)
+
 ---
+
 
 ### 📌 Projetos 
 
