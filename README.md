@@ -1,4 +1,4 @@
-# Olá! Eu sou o Mateus 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Mateus+%F0%9F%91%8B;Computer+Science+Student;Learning+by+doing+%F0%9F%92%BB)
 
 🎓 Atualmente, estou cursando Ciência da Computação na **PUC Minas**  
 💻 Em busca de aprendizado complementar na **Infinity School**    
