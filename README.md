@@ -48,7 +48,7 @@ Projetos realizados durante minha formação em desenvolvimento de software na I
   </a>
   <p>Email</p>
   
-  <a href=["https://www.linkedin.com/in/seu-usuario/"](https://www.linkedin.com/in/mateus-pimenta-26648529a/)>
+  <a href=https://www.linkedin.com/in/mateus-pimenta-26648529a/>
     <img src="https://img.icons8.com/ios/452/linkedin.png" width="40" />
   </a>
   <p>LinkedIn</p>
