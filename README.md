@@ -35,8 +35,13 @@ Sou curioso, dedicado e estou sempre em busca de novos desafios para evoluir.
 [Exercícios Java - PUC](https://github.com/mateusppb/puc_computacao.git)  
 Exercícios focados na lógica de programação utilizando Java.
 
-🔹 [Projetos Infinity](https://github.com/mateusppb/Infinity.git)  
-Projetos realizados durante minha formação em desenvolvimento de software na Infinity School.
+🔹 [Arovre Binária/ Pilha flexível](https://github.com/mateusppb/Estruturas-de-Dados-em-Java-DisneyPlus-CSV.git)
+Este repositório contém a implementação em **Java** de duas estruturas de dados clássicas:
+
+- 🔹 **Pilha Flexível** (dinâmica encadeada)  
+- 🔹 **Árvore Binária de Busca** (com rastreamento do caminho de busca)  
+
+Ambos os projetos utilizam o dataset **`disneyplus.csv`**, incluindo o **parsing manual** de arquivos CSV
 
 ---
 
