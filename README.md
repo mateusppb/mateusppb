@@ -35,7 +35,7 @@ Sou curioso, dedicado e estou sempre em busca de novos desafios para evoluir.
 [Exercícios Java - PUC](https://github.com/mateusppb/puc_computacao.git)  
 Exercícios focados na lógica de programação utilizando Java.
 
-🔹 [Arovre Binária/ Pilha flexível](https://github.com/mateusppb/Estruturas-de-Dados-em-Java-DisneyPlus-CSV.git)
+[Arovre Binária/ Pilha flexível](https://github.com/mateusppb/Estruturas-de-Dados-em-Java-DisneyPlus-CSV.git)
 Este repositório contém a implementação em **Java** de duas estruturas de dados clássicas:
 
 - 🔹 **Pilha Flexível** (dinâmica encadeada)  
