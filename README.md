@@ -33,7 +33,7 @@ Sou curioso, dedicado e estou sempre em busca de novos desafios para evoluir.
 ### 📌 Projetos 
 
 [Jogo da velha em Python](https://github.com/mateusppb/Tic-Tac-Toe.git)  
-Exercícios focados na lógica de programação utilizando Java.
+ogo da Velha no console com NumPy
 
 [Arovre Binária/ Pilha flexível](https://github.com/mateusppb/Estruturas-de-Dados-em-Java-DisneyPlus-CSV.git)
 Este repositório contém a implementação em **Java** de duas estruturas de dados clássicas:
