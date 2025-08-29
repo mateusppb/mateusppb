@@ -32,7 +32,7 @@ Sou curioso, dedicado e estou sempre em busca de novos desafios para evoluir.
 
 ### 📌 Projetos 
 
-[Exercícios Java - PUC](https://github.com/mateusppb/puc_computacao.git)  
+[Jogo da velha em Python](https://github.com/mateusppb/Tic-Tac-Toe.git)  
 Exercícios focados na lógica de programação utilizando Java.
 
 [Arovre Binária/ Pilha flexível](https://github.com/mateusppb/Estruturas-de-Dados-em-Java-DisneyPlus-CSV.git)
