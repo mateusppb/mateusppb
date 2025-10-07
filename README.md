@@ -1,34 +1,86 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Mateus+%F0%9F%91%8B;Computer+Science+Student;Learning+by+doing+%F0%9F%92%BB)
 
-🎓 Atualmente, estou cursando Ciência da Computação na **PUC Minas**  
-💻 Em busca de aprendizado complementar na **Infinity School**    
+🎓 Atualmente, estou cursando Ciência da Computação na **PUC Minas**   
 📍 Belo Horizonte – MG
 
 ---
 
 ### 💡 Sobre mim
 
-Atualmente, estou começando no mundo da programação e tecnologia.  
-Meu objetivo é aprender ao máximo, experimentar diferentes áreas da TI e construir uma base sólida para minha carreira.
-
-Sou curioso, dedicado e estou sempre em busca de novos desafios para evoluir.
+Meu objetivo é aprender ao máximo, experimentar diferentes áreas da TI e construir uma base sólida para minha carreira. Sou curioso, dedicado e estou sempre em busca de novos desafios para evoluir.
 
 ---
 
-### 🛠️ Tecnologias que estou estudando
+<h3 align="left">🧠 Linguagens e Tecnologias</h3>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+<!-- Linguagens -->
+<h4 align="left">💻 Linguagens:</h4>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusppb)
+<!-- Front-end -->
+<h4 align="left">🎨 Front-end:</h4>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+</p>
 
----
+<!-- Back-end -->
+<h4 align="left">⚙️ Back-end:</h4>
+<p align="left">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
+  </a>
+</p>
 
+<!-- Bibliotecas e Frameworks -->
+<h4 align="left">📚 Bibliotecas:</h4>
+<p align="left">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Banco de Dados -->
+<h4 align="left">🗄️ Banco de Dados:</h4>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">📊 Estatísticas do GitHub</h3>
+
+<p align="center">
+  <a href="https://github.com/mateusppb">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusppb&layout=pie&theme=tokyonight" alt="Top Langs"/>
+  </a>
+</p>
 
 ### 📌 Projetos 
 
@@ -47,21 +99,17 @@ Ambos os projetos utilizam o dataset **`disneyplus.csv`**, incluindo o **parsing
 
 ## 📫 Contato
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <a href="mailto:mateuspimentapb@gmail.com">
-    <img src="https://img.icons8.com/ios/452/gmail-new.png" width="40" />
+<h3 align="left">📫 Contato</h3>
+<p align="left">
+  <a href="mailto:mateuspimentapb@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios/452/gmail-new.png" width="40" alt="Email"/>
   </a>
-  <p>Email</p>
-  
-  <a href=https://www.linkedin.com/in/mateus-pimenta-26648529a/>
-    <img src="https://img.icons8.com/ios/452/linkedin.png" width="40" />
+  <a href="https://www.linkedin.com/in/mateus-pimenta-26648529a/" target="_blank">
+    <img src="https://img.icons8.com/ios/452/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  <p>LinkedIn</p>
-  
-  <a href="https://www.instagram.com/mateus_pimentapb/">
-    <img src="https://img.icons8.com/ios/452/instagram-new.png" width="40" />
+  <a href="https://www.instagram.com/mateus_pimentapb/" target="_blank">
+    <img src="https://img.icons8.com/ios/452/instagram-new.png" width="40" alt="Instagram"/>
   </a>
-  <p>Instagram</p>
-</div>
+</p>
 
 ---
