@@ -65,11 +65,7 @@ Meu objetivo é aprender ao máximo, experimentar diferentes áreas da TI e cons
 
 <h3 align="left">📊 Estatísticas do GitHub</h3>
 
-<p align="center">
-  <a href="https://github.com/mateusppb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusppb&layout=pie&theme=tokyonight" alt="Top Langs"/>
-  </a>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=mateusppb&show_icons=true&theme=tokyonight)
 
 ---
 
