@@ -71,24 +71,58 @@ Meu objetivo é aprender ao máximo, experimentar diferentes áreas da TI e cons
   </a>
 </p>
 
-### 📌 Projetos 
+---
 
-[Jogo da velha em Python](https://github.com/mateusppb/Tic-Tac-Toe.git)  
-Jogo da Velha no console com NumPy
+## 🚀 Projetos em destaque
 
-[Arovre Binária/ Pilha flexível](https://github.com/mateusppb/Estruturas-de-Dados-em-Java-DisneyPlus-CSV.git)
-Este repositório contém a implementação em **Java** de duas estruturas de dados clássicas:
+### 🧠 [InventIA — Gestão de Estoque Inteligente](https://github.com/mateusppb/inventIA-Projeto-TI2)
 
-- 🔹 **Pilha Flexível** (dinâmica encadeada)  
-- 🔹 **Árvore Binária de Busca** (com rastreamento do caminho de busca)  
+Sistema backend com integração à API Azure Vision para análise de imagens.
 
-Ambos os projetos utilizam o dataset **`disneyplus.csv`**, incluindo o **parsing manual** de arquivos CSV
+* Integração com API externa (Azure Cognitive Services)
+* Processamento e interpretação de dados com IA
+* Estrutura backend organizada (Service + regras de negócio)
+
+👥 Projeto em equipe — foco em aplicação real
+
+---
+
+### 🐍 [Backend com Flask](https://github.com/mateusppb/SEU-REPO-FLASK)
+
+Aplicação backend desenvolvida em Flask com foco em criação de APIs.
+
+* Criação de rotas REST
+* Organização de endpoints
+* Manipulação de requisições e respostas
+
+---
+
+### ☕ [Spring Boot Workshop](https://github.com/mateusppb/springboot-workshop)
+
+Projeto desenvolvido com Spring Boot explorando conceitos de backend.
+
+* Criação de API REST com Java
+* Estrutura em camadas (Controller, Service, Repository)
+* Integração com banco de dados
+
+---
+
+## 📌 Outros projetos
+
+### 🎮 [Jogo da Velha em Python](https://github.com/mateusppb/Tic-Tac-Toe.git)
+
+Jogo no console utilizando lógica e NumPy.
+
+---
+
+### 🌳 [Estruturas de Dados (Java)](https://github.com/mateusppb/Estruturas-de-Dados-em-Java-DisneyPlus-CSV.git)
+
+Implementação de pilha flexível e árvore binária com parsing manual de CSV.
 
 ---
 
 ## 📫 Contato
 
-<h3 align="left">📫 Contato</h3>
 <p align="left">
   <a href="mailto:mateuspimentapb@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios/452/gmail-new.png" width="40" alt="Email"/>
