@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Mateus+%F0%9F%91%8B;Computer+Science+Student;Learning+by+doing+%F0%9F%92%BB)
 
-🎓 Atualmente, estou cursando Ciência da Computação na **PUC Minas**   
+🎓 Ciência da Computação — PUC Minas
 📍 Belo Horizonte – MG
 
 ---
@@ -49,17 +49,6 @@ Meu objetivo é aprender ao máximo, experimentar diferentes áreas da TI e cons
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- Bibliotecas e Frameworks -->
-<h4 align="left">📚 Bibliotecas:</h4>
-<p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
 </p>
 
