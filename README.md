@@ -94,13 +94,16 @@ Aplicação backend desenvolvida em Flask com foco em criação de APIs.
 
 ---
 
-### ☕ [Spring Boot Workshop](https://github.com/mateusppb/springboot-workshop)
+### 🖼️ [GenImage API](https://github.com/mateusppb/genimage-api)
 
-Projeto desenvolvido com Spring Boot explorando conceitos de backend.
+API REST desenvolvida em Java e Spring Boot para geração e gerenciamento de imagens a partir de prompts, com autenticação de usuários e persistência de dados.
 
-* Criação de API REST com Java
-* Estrutura em camadas (Controller, Service, Repository)
-* Integração com banco de dados
+- Desenvolvimento de endpoints REST para cadastro, autenticação e geração de imagens;
+- Autenticação e autorização com Spring Security e JWT;
+- Persistência de usuários e imagens geradas com PostgreSQL;
+- Gerenciamento de alterações no banco de dados com Flyway;
+
+**Tecnologias:** Java · Spring Boot · Spring Security · JWT · PostgreSQL · Flyway · Maven
 
 ---
 
